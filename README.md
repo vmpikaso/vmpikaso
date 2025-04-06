@@ -17,9 +17,7 @@
 <h3 align="center">Daily</h3>
 <p align="center">
 
-|                                                                                                               |
-| :-----------------------------------------------------------------------------------------------------------: |
-| ![Daily Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/github-metrics.svg) |
+![Daily Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/github-metrics.svg)
 
 </p>
 
