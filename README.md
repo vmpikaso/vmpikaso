@@ -15,12 +15,19 @@
 
 <h2 align="center">Metrics</h2>
 <h3 align="center">Daily</h3>
+<p align="center">
+
 ![Daily Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/github-metrics.svg)
+
+</p>
 <h3 align="center">Yearly</h3>
-<h4 align="center">Half-Year</h4>
-![Yearly Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.isocalendar.halfyear.svg)
-<h4 align="center">Year</h4>
-![Yearly Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.isocalendar.fullyear.svg)
+<p align="center">
+
+|                                                              Half-Year                                                               |                                                                 Year                                                                 |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| ![Yearly Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.isocalendar.halfyear.svg) | ![Yearly Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.isocalendar.fullyear.svg) |
+
+</p>
 
 <h2 align="center">Languages</h2>
 <section style="display:flex;justify-content:space-around">
