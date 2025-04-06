@@ -29,6 +29,13 @@
 | ![Yearly Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.isocalendar.halfyear.svg) | ![Yearly Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.isocalendar.fullyear.svg) |
 
 </p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/github-snake.svg" />
+</picture>
+</p>
 
 <h2 align="center">Languages</h2>
 <section align="center" >
