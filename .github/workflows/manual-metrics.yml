@@ -1,4 +1,4 @@
-name: daily-metrics
+name: manual-metrics
 
 on:
   workflow_dispatch:
