@@ -13,7 +13,13 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vmpikaso&show_icons=true&locale=fr" alt="vmpikaso"/></p>
 
+<h2 align="center">Metrics</h2>
+<h3 align="center">Daily</h3>
 ![Daily Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/github-metrics.svg)
+<h3 align="center">Yearly</h3>
+<h4 align="center">Half-Year</h4>
+![Yearly Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.isocalendar.halfyear.svg)
+<h4 align="center">Year</h4>
 ![Yearly Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.isocalendar.fullyear.svg)
 
 <h2 align="center">Languages</h2>
