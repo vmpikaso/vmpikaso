@@ -9,7 +9,7 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  stats:
+  yearly-stats:
     runs-on: ubuntu-latest
     steps:
       - name: Full-year calendar
@@ -21,3 +21,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Europe/Paris
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: github-metrics-yearly
+          committer_message: "build: update `${filename}`"
