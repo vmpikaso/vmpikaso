@@ -45,3 +45,8 @@ jobs:
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
+          config_timezone: Europe/Paris
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: github-metrics-yearly
+          committer_message: "build: update `${filename}`"
