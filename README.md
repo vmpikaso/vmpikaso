@@ -13,6 +13,10 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vmpikaso&show_icons=true&locale=fr" alt="vmpikaso"/></p>
 
+<h2 align="center">History</h2>
+<p align="center">
+![Yearly Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.calendar.full.svg)
+</p>
 <h2 align="center">Metrics</h2>
 <h3 align="center">Daily</h3>
 <p align="center">

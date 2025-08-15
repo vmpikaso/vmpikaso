@@ -37,3 +37,11 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: github-metrics-yearly
           committer_message: "build: update `${filename}`"
+      - name: Full history calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.calendar.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
