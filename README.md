@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmpikaso" alt="vmpikaso" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmpikaso&theme=dracula" alt="vmpikaso" /></a> </p>
 
  <h2 align="center">Statistics</h2>
 
