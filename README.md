@@ -24,6 +24,7 @@
 <p align="center">
 
 ![Daily Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/github-metrics.svg)
+![Daily Achievements](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/metrics.plugin.achievements.compact.svg)
 
 </p>
 
