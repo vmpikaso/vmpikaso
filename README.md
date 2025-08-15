@@ -8,22 +8,26 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmpikaso&theme=dracula&margin-w=15&margin-h=15&column=5" alt="vmpikaso" /></a> </p>
 
  <h2 align="center">Statistics</h2>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vmpikaso&show_icons=true&locale=fr" alt="vmpikaso" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vmpikaso&show_icons=true&locale=fr" alt="vmpikaso"/></p>
-
-<h2 align="center">History</h2>
 <p align="center">
 
-![Yearly History](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.calendar.full.svg)
+|                                                 Stats                                                 |                                                   Languages                                                    |
+| :---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| ![Statistics](https://github-readme-stats.vercel.app/api?username=vmpikaso&show_icons=true&locale=fr) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vmpikaso&show_icons=true&locale=fr) |
+
+</p>
+
+<p align="center">
+
+|                                                            History                                                            |
+| :---------------------------------------------------------------------------------------------------------------------------: |
+| ![Yearly History](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.calendar.full.svg) |
 
 </p>
 <h2 align="center">Metrics</h2>
 <h3 align="center">Daily</h3>
 <p align="center">
 
-|                                                    Metrics                                                     |                                                             Achievments                                                             |
+|                                                    Metrics                                                     |                                                            Achievements                                                             |
 | :------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
 | ![Yearly Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/github-metrics.svg) | ![Yearly Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/metrics.plugin.achievements.compact.svg) |
 
