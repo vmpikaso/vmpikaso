@@ -30,14 +30,20 @@
 
 </p>
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake.svg" />
-</picture>
-<img src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake.gif" alt="vmpikaso" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake.svg" />
+  </picture>
+  <img src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake.gif" alt="vmpikaso" />
 </p>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vmpikaso/vmpikaso/main/images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vmpikaso/vmpikaso/main/images/breakout-light.svg" />
+    <img alt="Breakout Game" src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/main/images/breakout-light.svg" />
+  </picture>
+</p>
 <h2 align="center">Languages</h2>
 <section align="center" >
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a>
