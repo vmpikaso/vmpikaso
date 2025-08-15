@@ -119,9 +119,7 @@ jobs:
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-          output_action: none
-          delay: 120
-          user: lowlighter
+          user: vmpikaso
           plugins_errors_fatal: yes
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: github-metrics-daily
