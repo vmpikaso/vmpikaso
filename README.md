@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/main/wave.gif" width="30px" height="30px" />, I'm Victor (VMPikaso) MARFIL</h1>
-<p align="center"><img src="https://github.com/vmpikaso.png" alt="profile_photo" width="512" height="512"/>
+<p align="center"><img src="https://github.com/vmpikaso.png" alt="profile_photo" width="356" height="356"/>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vmpikaso&label=Profile%20views&color=0e75b6&style=flat" alt="vmpikaso" /> </p>
 
