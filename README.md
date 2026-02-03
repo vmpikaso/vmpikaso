@@ -74,7 +74,7 @@
 </section>
 <h2 align="center">Frameworks</h2>
 <section align="center">
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100"/> </a> 
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="express" width="100" height="100"/> </a> 
  <a href="https://fastify.dev/" target="_blank" rel="noreferrer"> <img src="https://fastify.dev/img/logos/fastify-white.svg" alt="fastify" width="100" height="100"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="100" height="100"/> </a>
  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://js.devexpress.com/Content/Images/Frameworks/Angular.png" alt="angular" width="100" height="100"/> </a>
