@@ -95,7 +95,6 @@ jobs:
           if [ -f trophy.svg ]; then
             echo "SVG exists ($(wc -c < trophy.svg) Bytes)"
             file trophy.svg
-            ls -l
           else
             echo "SVG failed to generate"
             exit 1
@@ -103,7 +102,6 @@ jobs:
 
       - name: Commit trophy.svg if changed
         run: |
-          ls -l
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [ -f trophy.svg ] && git status --porcelain | grep -q trophy.svg; then

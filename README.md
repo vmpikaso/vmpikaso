@@ -5,7 +5,11 @@
 
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmpikaso&theme=dracula&margin-w=15&margin-h=15&column=5" alt="vmpikaso" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+
+[Trophy](https://raw.githubusercontent.com/vmpikaso/vmpikaso/main/trophy.svg)
+
+</p>
 
  <h2 align="center">Statistics</h2>
 <p align="center">
