@@ -85,14 +85,22 @@ jobs:
           username: ${{ github.repository_owner }}
           output_path: ./trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Verify SVG generated
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Commit trophy.svg if changed
         run: |
-          if [ -f trophy.svg ]; then
-            echo "SVG exists ($(wc -c < trophy.svg) Bytes)"
-            file trophy.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -f trophy.svg ] && git status --porcelain | grep -q trophy.svg; then
+            git add trophy.svg
+            git commit -m "build: update trophy.svg"
+            # Push to a dedicated branch to avoid touching main directly
+            git push origin HEAD:github-metrics-daily || git push
           else
-            echo "SVG failed to generate"
-            exit 1
+            echo "No changes to commit"
           fi
 
   # achievements:
