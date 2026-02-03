@@ -83,6 +83,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: true
+          fetch-depth: 0
       - name: Generate Profile Trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
@@ -108,8 +109,7 @@ jobs:
           if [ -f trophy.svg ] && git status --porcelain | grep -q trophy.svg; then
             git add trophy.svg
             git commit -m "build: update trophy.svg"
-            # Push to a dedicated branch to avoid touching main directly
-            git push origin HEAD:github-metrics-daily || git push
+            git push
           else
             echo "No changes to commit"
           fi
