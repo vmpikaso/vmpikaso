@@ -5,8 +5,9 @@
 
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/main/trophy.svg" alt="Trophy"/>
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/main/trophy.svg" alt="Trophy"/>
 
 </p>
 
