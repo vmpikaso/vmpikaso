@@ -79,6 +79,10 @@ jobs:
   trophy:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - name: Generate Profile Trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
@@ -95,10 +99,6 @@ jobs:
             echo "SVG failed to generate"
             exit 1
           fi
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true
 
       - name: Commit trophy.svg if changed
         run: |
