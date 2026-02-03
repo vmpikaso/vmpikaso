@@ -1,23 +1,35 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/main/wave.gif" width="30px" height="30px" />, I'm Victor (VMPikaso) MARFIL</h1>
-<p align="center"><img src="https://github.com/vmpikaso.png" alt="android" width="250" height="250"/>
+<p align="center"><img src="https://github.com/vmpikaso.png" alt="profile_photo" width="356" height="356"/>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vmpikaso&label=Profile%20views&color=0e75b6&style=flat" alt="vmpikaso" /> </p>
 
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmpikaso" alt="vmpikaso" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmpikaso&theme=dracula&margin-w=15&margin-h=15&column=5" alt="vmpikaso" /></a> </p>
 
  <h2 align="center">Statistics</h2>
+<p align="center">
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vmpikaso&show_icons=true&locale=fr" alt="vmpikaso" /></p>
+|                                                 Stats                                                 |                                                   Languages                                                    |
+| :---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| ![Statistics](https://github-readme-stats.vercel.app/api?username=vmpikaso&show_icons=true&locale=fr) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vmpikaso&show_icons=true&locale=fr) |
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vmpikaso&show_icons=true&locale=fr" alt="vmpikaso"/></p>
+</p>
 
+<p align="center">
+
+|                                                            History                                                            |
+| :---------------------------------------------------------------------------------------------------------------------------: |
+| ![Yearly History](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.calendar.full.svg) |
+
+</p>
 <h2 align="center">Metrics</h2>
 <h3 align="center">Daily</h3>
 <p align="center">
 
-![Daily Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/github-metrics.svg)
+|                                                    Metrics                                                     |                                                            Achievements                                                             |
+| :------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+| ![Yearly Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/github-metrics.svg) | ![Yearly Metrics](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/metrics.plugin.achievements.compact.svg) |
 
 </p>
 
@@ -30,14 +42,27 @@
 
 </p>
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake.svg" />
-</picture>
-<img src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake.gif" alt="vmpikaso" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake.svg" />
+  </picture>
+  <img src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-manual/github-contribution-grid-snake.gif" alt="vmpikaso" />
 </p>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="ihttps://raw.githubusercontent.com/vmpikaso/vmpikaso/main/images/breakout-light.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vmpikaso/vmpikaso/main/images/breakout-dark.svg" />
+    <img alt="Breakout Game" src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/main/images/breakout-light.svg" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="ihttps://raw.githubusercontent.com/vmpikaso/vmpikaso/main/images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vmpikaso/vmpikaso/main/images/breakout-light.svg" />
+    <img alt="Breakout Game" src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/main/images/breakout-dark.svg" />
+  </picture>
+</p>
 <h2 align="center">Languages</h2>
 <section align="center" >
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a>
@@ -49,10 +74,10 @@
 </section>
 <h2 align="center">Frameworks</h2>
 <section align="center">
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100"/> </a> 
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="express" width="100" height="100"/> </a> 
  <a href="https://fastify.dev/" target="_blank" rel="noreferrer"> <img src="https://fastify.dev/img/logos/fastify-white.svg" alt="fastify" width="100" height="100"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="100" height="100"/> </a>
- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="100" height="100"/> </a>
+ <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://js.devexpress.com/Content/Images/Frameworks/Angular.png" alt="angular" width="100" height="100"/> </a>
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="100" height="100"/> </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" width="100" height="100"/> </a>
 </section>
