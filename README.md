@@ -13,7 +13,7 @@
 
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/main/language.svg" alt="Most used languages"/>
+  <img src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-daily/language.svg" alt="Most used languages"/>
 
 </p>
 
