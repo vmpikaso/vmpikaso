@@ -11,6 +11,12 @@
 
 </p>
 
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/main/language.svg" alt="Most used languages"/>
+
+</p>
+
  <h2 align="center">Statistics</h2>
 <p align="center">
 
