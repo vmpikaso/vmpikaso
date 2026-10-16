@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Full-year calendar
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@main
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -26,12 +26,25 @@ jobs:
           committer_branch: github-metrics-yearly
           committer_message: "build: update `${filename}`"
       - name: Half-year calendar
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@main
         with:
           filename: metrics.plugin.isocalendar.halfyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
+          config_timezone: Europe/Paris
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: github-metrics-yearly
+          committer_message: "build: update `${filename}`"
+      - name: Full history calendar
+        uses: gh-metrics/metrics@main
+        with:
+          filename: metrics.plugin.calendar.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
           config_timezone: Europe/Paris
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
