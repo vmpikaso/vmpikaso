@@ -7,7 +7,7 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@main
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -25,7 +25,7 @@ jobs:
   notable:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@main
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -50,7 +50,7 @@ jobs:
   language:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@main
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -75,7 +75,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Full-year calendar
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@main
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -88,7 +88,7 @@ jobs:
           committer_branch: github-metrics-yearly
           committer_message: "build: update `${filename}`"
       - name: Half-year calendar
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@main
         with:
           filename: metrics.plugin.isocalendar.halfyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -100,7 +100,7 @@ jobs:
           committer_branch: github-metrics-yearly
           committer_message: "build: update `${filename}`"
       - name: Full history calendar
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@main
         with:
           filename: metrics.plugin.calendar.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -142,10 +142,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: generate SVG
-        uses: cyprieng/github-breakout@v1.0.0
+        uses: cyprieng/github-breakout@v1.2.4
         with:
           github_username: ${{ github.repository_owner }}
 
