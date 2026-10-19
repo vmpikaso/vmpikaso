@@ -23,6 +23,7 @@ jobs:
         with:
           target_branch: github-metrics-manual
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
