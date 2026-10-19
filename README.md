@@ -20,10 +20,14 @@
  <h2 align="center">Statistics</h2>
 <p align="center">
 
-|                                                 Stats                                                 |                                                   Languages                                                    |
-| :---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-| ![Statistics](https://github-readme-stats.vercel.app/api?username=vmpikaso&show_icons=true&locale=fr) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vmpikaso&show_icons=true&locale=fr) |
+|                                                                                                                                                             Stats                                                                                                                                                             |                                                                     Languages                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Statistics](https://github-stats-extended.vercel.app/api?username=vmpikaso&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github) | ![Languages](https://github-stats-extended.vercel.app/api/top-langs?username=vmpikaso&langs_count=10&theme=dark_github&show_icons=true&locale=fr) |
 
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
