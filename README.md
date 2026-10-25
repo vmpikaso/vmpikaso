@@ -20,19 +20,22 @@
  <h2 align="center">Statistics</h2>
 <p align="center">
 
-|                                                 Stats                                                 |                                                   Languages                                                    |
-| :---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-| ![Statistics](https://github-readme-stats.vercel.app/api?username=vmpikaso&show_icons=true&locale=fr) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vmpikaso&show_icons=true&locale=fr) |
+|                                                                                                                                                             Stats                                                                                                                                                             |                                                                     Languages                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Statistics](https://github-stats-extended.vercel.app/api?username=vmpikaso&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github) | ![Languages](https://github-stats-extended.vercel.app/api/top-langs?username=vmpikaso&langs_count=10&theme=dark_github&show_icons=true&locale=fr) |
 
 </p>
 
+<h2 align="center">GitHub Streak</h2>
 <p align="center">
-
-|                                                            History                                                            |
-| :---------------------------------------------------------------------------------------------------------------------------: |
-| ![Yearly History](https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.calendar.full.svg) |
-
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
+
+<h2 align="center">Yearly History</h2>
+<p align="center">
+  <a href="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.calendar.full.svg"><img src="https://raw.githubusercontent.com/vmpikaso/vmpikaso/github-metrics-yearly/metrics.plugin.calendar.full.svg" alt="Yearly History" /></a>
+</p>
+
 <h2 align="center">Metrics</h2>
 <h3 align="center">Daily</h3>
 <p align="center">
